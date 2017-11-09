@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Modular Telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperlofgren/telegram-bot.git"
+  },
+  "author": "Casper Löfgren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casperlofgren/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/casperlofgren/telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
