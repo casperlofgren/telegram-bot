@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/casperlofgren/telegram-bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.29.0"
+    "giphy-api": "^1.2.7",
+    "node-telegram-bot-api": "^0.29.0",
+    "request": "^2.83.0"
   }
 }
